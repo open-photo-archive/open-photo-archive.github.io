@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Individual photograph pages (/#/photographs/<slug>) are intentionally
+  omitted: this site is a hash-routed SPA (GitHub Pages has no server-side
+  rewrite), and crawlers generally don't index content after a "#" in a URL.
+  Listing those URLs here would just be noise a crawler can't use.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://open-photo-archive.github.io/</loc></url>
+  <url><loc>https://open-photo-archive.github.io/#/notes</loc></url>
+</urlset>
